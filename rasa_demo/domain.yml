@@ -1,0 +1,83 @@
+entities:
+  - email
+  - username
+  - password
+
+intents:
+  - greet
+  - bye
+  - signup_account
+  - enter_data
+  - ask_howdoing
+  - utter_out_of_scope
+  - deny
+
+slots:
+  email:
+    type: text
+  username:
+    type: text
+  password:
+    type: text
+  is_authenticated:
+    type: bool
+
+templates:
+  utter_greet:
+    - text: "Hey there, welcome to Alexmhack's Website!"
+  utter_bye:
+    - text: "Goodbye!"
+    - text: "Bye!"
+    - text: "Ciao!"
+    - text: "Bye, was nice talking to you!"
+  utter_ask_howdoing:
+    - text: "I'm great! Thanks for asking."
+    - text: "I'm good, thanks!"
+    - text: "A little bit too warm, otherwise fine."
+  utter_ask_goal:
+    - text: "You can signup for our newsletter or create a new account"
+  utter_ask_email:
+    - text: "What's your email address?"
+  utter_confirm_email:
+    - text: "Great! 👍 We have you covered now with {email}"
+  utter_great:
+    - text: "Great! 👍"
+    - text: "That's great! 🙌"
+    - text: "Awesome! 🎉"
+    - text: "Cool, let's do it 🚀"
+  utter_out_of_scope:
+    - text: "Sorry, I can’t deal with that request."
+    - text: "I'm sorry, I can't handle that request."
+    - text: "I can't help you with that, I'm sorry."
+    - text: "It seems like I can't handle that request."
+  utter_possibilities:
+    - text: "You can either contact to sales person or subscribe to our newsletter."
+  utter_ask_username:
+    - text: "Please enter your username"
+  utter_awesome_username:
+    - text: "Awesome, {username}! 👍"
+  utter_anything_else:
+    - text: "Is there anything else I can help you with"
+  utter_alright_then:
+    - text: "Alright then"
+  utter_confirm_details:
+    - text: "Please check your details
+            username: {username}
+            email: {email}"
+
+actions:
+  - utter_greet
+  - utter_bye
+  - utter_ask_howdoing
+  - utter_ask_goal
+  - utter_ask_email
+  - utter_confirm_email
+  - utter_great
+  - action_store_email
+  - utter_out_of_scope
+  - utter_possibilities
+  - utter_ask_username
+  - utter_awesome_username
+  - utter_anything_else
+  - utter_alright_then
+  - utter_confirm_details

@@ -1,0 +1,820 @@
+## intent:greet
+- Hi
+- Hey
+- Hi bot
+- Hey bot
+- Hello
+- Good morning
+- hi again
+- hi folks
+- hi Mister
+- hi pal!
+- hi there
+- greetings
+- hello everybody
+- hello is anybody there
+- hello robot
+- hallo
+- heeey
+- hi hi
+- hey
+- hey hey
+- hello there
+- hi
+- hello
+- yo
+- hola
+- hi?
+- hey bot!
+- hello friend
+- good morning
+- hii
+- hello sweet boy
+- yoo
+- hey there
+- hiihihi
+- hello sweatheart
+- hellooo
+- helloooo
+- heyo
+- ayyyy whaddup
+- hello?
+- Hallo
+- heya
+- hey bot
+- howdy
+- Hellllooooooo
+- whats up
+- Hei
+- Well hello there ;)
+- I said, helllllloooooO!!!!
+- Heya
+- Whats up my bot
+- hiii
+- heyho
+- hey, let's talk
+- hey let's talk
+- jojojo
+- hey dude
+- hello it is me again
+- what up
+- hi there
+- hi
+- jop
+- hi friend
+- hi there it's me
+
+## intent:bye
+- goodbye
+- goodnight
+- good bye
+- good night
+- see ya
+- toodle-oo
+- bye bye
+- gotta go
+- farewell
+- catch you later
+- bye for now
+- bye
+- bye was nice talking to you
+- bye udo
+- bye bye bot
+- bye bot
+- k byyye #slay
+- tlak to you later
+- ciao
+- Bye bye
+- then bye
+- tschüssikowski
+- bye!
+
+## intent:ask_howdoing
+- Ahoy matey how are you?
+- are you alright
+- are you having a good day
+- Are you ok?
+- are you okay
+- Do you feel good?
+- how are things going
+- how are things with you?
+- How are things?
+- how are you
+- how are you doing
+- how are you doing this morning
+- how are you feeling
+- how are you today
+- How are you?
+- how do you do?
+- how have you been
+- how is it going
+- how is your day
+- how is your day going
+- how is your evening
+- How was your day?
+- How's it going
+- How's it hanging?
+- how's life
+- how's life been treating you?
+- How's life treating you friend?
+- how's your day going
+- How've you been?
+- I'm fine and you
+- is everything all right
+- Is everything ok?
+- is everything okay
+- what about your day
+- What's going on?
+- what's good
+- What's new?
+- What's up man
+- What's up
+- how are you?
+- Do you have a great day?
+- how are you doing today my sweet friend
+- how are you doing?
+- how are u
+- How are you?
+
+## intent:enter_data
+- [maxmeier@firma.de](email)
+- [bot-fan@bots.com](email)
+- [maxmeier@firma.de](email)
+- [bot-fan@bots.com](email)
+- my email is [email@rasa.com](email)
+- my email is [markjobs@ibm.com](email)
+- my email is [khardik.kmosu@bol.net.in](email)
+- my business mail is [mikemiller@sales.apple.com](email)
+- email = [stephanywhite@microsoft.com](email)
+- mail: [julianfrank@hotmail.com](email)
+- [santaklaus@googlemail.com](email)
+- [saswatkarhar@rediffmail.com](email)
+- [nerd@stanford.edu](email)
+- [alexander.denker@tu-berlin.de](email)
+- [sislawawa@india.com](email)
+- [chengming@aliyun.com](email)
+- [mrmop@mops.app](email)
+- [My email is linda@linda.linda](email)
+- [adele@gmx.com](email)
+- [moabit@yoga.com](email)
+- [solomq122@qq.mail.com](email)
+- [loretta@strawberry-ice.come](email)
+- [hi@rasa.com](email)
+- [hello@hello.com](email)
+- [klausimausi@apple.com](email)
+- [akela@philipp.com](email)
+- [help@help.com](email)
+- [test@test.com](email)
+- [philipp@thephilippcompany.com](email)
+- [joey@koolmanconsulting.com](email)
+- [ifuckrobots666@apple.com](email)
+- [myemail@gmail.com](email)
+- [ulrikovitcheisenkleber@eisenkleberlimitedcokg.com](email)
+- my email is [kevin@yoloooz.de](email)
+- [123@skdv.fvsdj](email) is my email address
+- [123@gmail.com](email)
+- [udo@udo.ai](email)
+- [linda@yoloyolo.de](email)
+- [elise@gmail.com](email) is my email address
+- [linda@linda.com](email)
+- [hey@kldpeffesfoken.oinwf](email)
+- [linda@rasa.ai](email)
+- [propella@daskapital.de](email)
+- [bigassnerd@rasa.com](email)
+- [yesplease@yes.com](email)
+- [tamedmouse@micerevolution.fr](email)
+- [volodimir@rasa.com](email) is the email I use
+- [junk@junk.com](email)
+- [al@acme.org](email) is my email address
+- [none@none.co.uk](email) is the email I use
+- [juste@juste.com](email)
+- [shiba@shiba.com](email)
+- [tylerthemateman@clubmate.com](email) is my email address
+- [me@me.com](email) is my email address
+- [j@p.com](email)
+- [herbert@gmail.com](email)
+- [hi@elise.de](email)
+- [ulle@gmx.de](email)
+- [me@you.de](email)
+- [akela@akela.com](email) is the email I use
+- my email address is [ames@rasa.com](email)
+- [valid_email@one.de](email)
+- [valid@one.email](email)
+- ok its [email@email.com](email)
+- [akelaistcool@schwabenländle.de](email) is the email I use
+- [randall@yahoo.com](email)
+- my email address is [dhwon@outlook.com](email)
+- [amaranth@sbcglobal.net](email) is my email address
+- [kewley@optonline.net](email)
+- [barnett@yahoo.com](email)
+- [cumarana@sbcglobal.net](email)
+- [bowmanbs@verizon.net](email)
+- [rande@me.com](email)
+- [bachmann@yahoo.com](email) is the email I use
+- [neuffer@outlook.com](email)
+- [horrocks@mac.com](email)
+- my email address is [kayvonf@live.com](email)
+- [themer@att.net](email)
+- my email address is [mschilli@icloud.com](email)
+- [knorr@live.com](email)
+- [rnelson@gmail.com](email)
+- [jaesenj@hotmail.com](email) is my email address
+- [mwilson@hotmail.com](email)
+- [suresh@outlook.com](email) is the email I use
+- [william@me.com](email)
+- [caidaperl@comcast.net](email)
+- [dleconte@optonline.net](email) is my email address
+- [njpayne@outlook.com](email)
+- my email address is [fbriere@att.net](email)
+- [improv@sbcglobal.net](email)
+- [flaviog@me.com](email) is my email address
+- [wojciech@sbcglobal.net](email)
+- [malin@verizon.net](email) is the email I use
+- [bdbrown@verizon.net](email)
+- my email address is [noahb@optonline.net](email)
+- [carroll@live.com](email)
+- [sinclair@msn.com](email) is my email address
+- [jigsaw@yahoo.ca](email)
+- [dleconte@msn.com](email) is the email I use
+- [overbom@hotmail.com](email)
+- my email address is [drewf@gmail.com](email)
+- [ideguy@me.com](email) is my email id
+- [agapow@msn.com](email)
+- [zeller@verizon.net](email) is my email
+- [hling@msn.com](email)
+- [oster@verizon.net](email)
+- [andersbr@mac.com](email) is my email address
+- [gordonjcp@hotmail.com](email)
+- [weidai@outlook.com](email)
+- [parsimony@outlook.com](email)
+- [inico@live.com](email)
+- [rgiersig@comcast.net](email) is the email I use
+- [pjacklam@icloud.com](email)
+- [archit@stanford.edu](email)
+- [pathak@california.edu](email)
+- [uncleji@university.edu](email) is my email id
+- my email address is [auntyji@sagaruniversity.edu](email)
+- [archana@warnerbros.edu](email)
+- [bharatsinghgour@starmovies.edu](email)
+- [bsgour@hollywood.edu](email) is the email I use
+- [pranav@tollyasdfasdfwood.edu](email) is my email id
+- [pranjal@unbreakable.edu](email) is my email address
+- my email address is [tseriesbrothers@stanford.edu](email)
+- [savion](username)
+- [juliet](username)
+- use [ean](username)
+- [raquel](username)
+- use [angelo](username) as name
+- [jordyn](username)
+- [reuben](username)
+- use [laurel](username) as username
+- [kenyon](username)
+- [shayna](username)
+- [kellen](username)
+- [camryn](username) is my username
+- [mariam](username)
+- [quinn](username)
+- [brenna](username)
+- [trace](username)
+- [areli](username)
+- [shamar](username)
+- [hayden](username)
+- [cristina](username)
+- take [kaliyah](username) as my username
+- [bailey](username)
+- [violet](username)
+- [nataly](username) please
+- [katrina](username)
+- [alaina](username), please
+- [ethen](username)
+- [matilda](username)
+- [moses](username)
+- [kathryn](username)
+- [royce](username)
+- [charles](username)
+- [paulina](username) will be my userame
+- [kate](username)
+- [phillip](username)
+- [javon](username)
+- [sincere](username)
+- [kylie](username)
+- [bryanna](username)
+- [chase](username)
+- [anabelle](username)
+- [sanaa](username)
+- please use [lucy](username) as username
+- [abbie](username)
+- [moises](username)
+- [nathalie](username)
+- [arnav](username)
+- [kayleigh](username)
+- [rebecca](username) as my userame
+- [raphael](username)
+- please use [cesar](username)
+- [marissa](username)
+- [johan](username)
+- [hazel](username)
+- [rowan](username) will be okay
+- [kaitlynn](username)
+- [barrett](username)
+- [shyann](username)
+- [lindsey](username) will do
+- [elle](username)
+- [raiden](username)
+- I will use [amani](username)
+- I will use [jacoby](username)
+- [jordan](username)
+- I want [julianne](username) as my username
+- [april](username)
+- [madisyn](username)
+- [evan](username)
+- I will use [anabel](username)
+- [giada](username)
+- I will use [haven](username)
+- [hugo](username)
+- [luka](username)
+- I will use [antony](username)
+- [abbey](username)
+- [ramiro](username)
+- I will use [talan](username)
+- [jasiah](username)
+- I will use [rhys](username)
+- [celeste](username)
+- [raina](username)
+- [irene](username)
+- [victoria](username)
+- [isaias](username)
+- [elisabeth](username)
+- [abigayle](username)
+- I will use [lennon](username)
+- [jordyn](username)
+- I will use [kenya](username)
+- [lorenzo](username)
+- [malia](username)
+- [malachi](username)
+- [german](username)
+- [rodrigo](username)
+- [walker](username)
+- [aileen](username)
+- I will use [isaac](username)
+- [ruben](username)
+- I will use [mariela](username)
+- [estrella](username)
+- [caroline](username)
+- [niko](username)
+- [myles](username)
+- [harmony](username)
+- [rylee](username)
+- I will use [jayleen](username)
+- [raegan](username)
+- [santos](username)
+- [elian](username)
+- [lyla](username)
+- [jair](username)
+- [maliyah](username)
+- [valentina](username)
+- [wyatt](username)
+- I will use [khloe](username)
+- I will use [emerson](username)
+- [renee](username)
+- I will use [Mohamed](username)
+- [amaris](username)
+- [jenny](username)
+- [jonathan](username)
+- [ann](username)
+- [vicente](username)
+- [kaia](username)
+- [jeremy](username)
+- [matthew](username)
+- I will use [Zander](username)
+- [andreas](username)
+- I will use [Mackenzie](username)
+- [grace](username)
+- I will use [Maritza](username)
+- [mckenzie](username)
+- I will use [Jovani](username)
+- [elijah](username)
+- [Kellen](username)
+- [roger](username)
+- [logan](username)
+- [landen](username)
+- [jenna](username)
+- [anthony](username)
+
+## intent:password
+- [password](password)
+- [password](password)
+- [123456](password)
+- [123456](password)
+- [123456](password)
+- [123456](password)
+- [123456](password)
+- [2123456](password)
+- [123456](password)
+- [password](password)
+- [password](password)
+- [password](password)
+- [password](password)
+- [password](password)
+- [12345678](password)
+- [12345678](password)
+- [12345678](password)
+- [12345](password)
+- [12345678](password)
+- [12345](password)
+- [12345678](password)
+- [qwerty](password)
+- [abc123](password)
+- [qwerty](password)
+- [12345678](password)
+- [qwerty](password)
+- [12345678](password)
+- [qwerty](password)
+- [abc123](password)
+- [qwerty](password)
+- [abc123](password)
+- [qwerty](password)
+- [12345](password)
+- [football](password)
+- [12345](password)
+- [monkey](password)
+- [monkey](password)
+- [123456789](password)
+- [123456789](password)
+- [123456789](password)
+- [qwerty](password)
+- [123456789](password)
+- [1234567](password)
+- [letmein](password)
+- [111111](password)
+- [1234](password)
+- [football](password)
+- [1234567890](password)
+- [letmein](password)
+- [letmein](password)
+- [dragon](password)
+- [1234567](password)
+- [baseball](password)
+- [1234](password)
+- [1234567](password)
+- [1234567](password)
+- [111111](password)
+- [iloveyou](password)
+- [dragon](password)
+- [1234567](password)
+- [princess](password)
+- [football](password)
+- [baseball](password)
+- [adobe123](password)
+- [football](password)
+- [baseball](password)
+- [1234](password)
+- [iloveyou](password)
+- [iloveyou](password)
+- [123123](password)
+- [1234567](password)
+- [welcome](password)
+- [login](password)
+- [admin](password)
+- [trustno1](password)
+- [admin](password)
+- [monkey](password)
+- [1234567890](password)
+- [welcome](password)
+- [welcome](password)
+- [1234567](password)
+- [1234567890](password)
+- [letmein](password)
+- [abc123](password)
+- [solo](password)
+- [monkey](password)
+- [sunshine](password)
+- [letmein](password)
+- [abc123](password)
+- [111111](password)
+- [abc123](password)
+- [login](password)
+- [master](password)
+- [photoshop](password)
+- [1qaz2wsx](password)
+- [admin](password)
+- [abc123](password)
+- [123123](password)
+- [1234](password)
+- [mustang](password)
+- [dragon](password)
+- [121212](password)
+- [starwars](password)
+- [welcome](password)
+- [monkey](password)
+- [access](password)
+- [master](password)
+- [flower](password)
+- [123123](password)
+- [shadow](password)
+- [shadow](password)
+- [shadow](password)
+- [monkey](password)
+- [passw0rd](password)
+- [dragon](password)
+- [ashley](password)
+- [sunshine](password)
+- [master](password)
+- [letmein](password)
+- [dragon](password)
+- [passw0rd](password)
+- [football](password)
+- [12345](password)
+- [michael](password)
+- [login](password)
+- [sunshine](password)
+- [master](password)
+- [jesus](password)
+- [password1](password)
+- [superman](password)
+- [princess](password)
+- [master](password)
+- [hello](password)
+- [michael](password)
+- [princess](password)
+- [696969](password)
+- [qwertyuiop](password)
+- [hottie](password)
+- [freedom](password)
+- [ninja](password)
+- [azerty](password)
+- [123123](password)
+- [solo](password)
+- [loveme](password)
+- [whatever](password)
+- [mustang](password)
+- [trustno1](password)
+- [batman](password)
+- [passw0rd](password)
+- [zaq1zaq1](password)
+- [qazwsx](password)
+- [password1](password)
+- [000000](password)
+- [trustno1](password)
+- [starwars](password)
+- [password1](password)
+- [trustno1](password)
+
+## intent:signup_account
+- I wanna sign up for the website.
+- I want to sign up for the website.
+- I would like to sign up for the website.
+- Sign me up for the website.
+- Sign up.
+- sign up please.
+- add me to the sign up
+- sign up
+- sign up for the Company
+- yeaaah lets go for the signup
+- I want to register to your website
+- account pls
+- sign up to the website
+- sign me up for the website - my email is yesplease@rasa.ai
+- sign up, here is my email: sisi@rasa.com
+- signup, here is my email: sisi@rasa.com
+- register, here is my email: sisi@rasa.com
+- sign up - my email is lol@rasa.com
+- register - my email is lol@rasa.com
+- signup - my email is lol@rasa.com
+- register to website account
+- Sign Up, Please
+- register
+- get the account
+- I also want to register
+- id like to register
+- I'd like to register
+- I want the account
+- sign up
+- i want to signup
+- account please
+- sign
+- i want the account
+- add me as your user
+- add me to the users list
+- register please my email is linda@yolo.de
+- i want to register your website
+- i want the account
+- i want to register to the website
+- can you pelase register me to the website
+- can you register me to the account
+- account register
+- account subscription
+- gimme the account
+- i need the account
+- may i receive the confirmation email now
+- i would love to get the confirmation email
+- please send me the account confirmation email
+- get account
+- get the account
+- i want to get the account
+- i'm craving the registration
+- i'm craving the register
+- i'm craving the account
+- i prefer to get the account
+- register me to the website
+- please register me to your website
+- sign me up for that website
+- sign me up for the website
+- i want to sign up for the website
+- lets do the user signup
+- user registration
+- register me for the website
+- please sign me up for the website
+- add me to the users
+- add me to the users list
+- i need to be on the accounts list
+- i want to join the users list
+- can you sign me up for the website
+- join that website
+- i want to join the user list
+- how about the account signup
+- signup to website
+- signup it is
+- i go for the signup
+- lets try the account signup
+- lets try the account registration
+- how about the registration
+- account registration first
+- first lets sign up for the website
+- now i want to signup for the website
+- can you add alan@mail.com to the users list?
+- i want on this dope website - my email is alex@mail.com
+- but please sign me up for the website!
+- i want to signup
+- register example@rasa.com to the website
+- sign up hi@rasa.com to the website
+- sign up to the website
+- please sign me as alex@example.cz
+- register my email alex@mail.mail to your website
+- Registration
+- i also want to sign up
+- Sign Up
+- i'd like your account please
+- sign up
+- what about signing up?
+- get a account
+- to make an account
+- let's make a registration
+- I would love to register!
+- i need this dope account
+- oh actually i want to register
+- i want to register to your website
+- can i sign up too?
+- do the registration then
+- i want to register
+- i want account
+- i want that dope account
+- Register
+
+## intent:deny
+- no
+- definitely not
+- never
+- absolutely not
+- i don't think so
+- i'm afraid not
+- no sir
+- no ma'am
+- no way
+- no sorry
+- No, not really.
+- nah not for me
+- nah
+- no and no again
+- no go
+- no thanks
+- decline
+- deny
+- i decline
+- never mind
+- I'm not giving you my email address
+- no I haven't decided yet if I want to sign up
+- I don't want to give it to you
+- I'm not going to give it to you
+- no i don't accept
+- no!!!!
+- no you did it wrong
+- no i can't
+- i'm not sure
+- NEIN
+- nein
+- not really
+- i guess it means - no
+- i don't want to
+- i don't want either of those
+
+## intent:out_of_scope
+- I want pizza
+- please help with my ice cream it's dripping
+- no wait go back i want a dripping ice cream but a cone that catches it so you can drink the ice cream later
+- i want a non dripping ice cream
+- hey little mama let em whisper in your ear
+- someone call the police i think the bot died
+- show me a picture of a chicken
+- neither
+- I want french cuisine
+- i am hungry
+- restaurants
+- restaurant
+- you're a loser lmao
+- can i be shown a gluten free restaurant
+- i don't care!!!!
+- i do not care how are you
+- again?
+- oh wait i gave you my work email address can i change it?
+- hang on let me find it
+- stop it, i do not care!!!
+- really? you're so touchy?
+- how come?
+- I changed my mind
+- what?
+- did i break you
+- I don't wanna tell the username of my company
+- that link doesn't work!
+- you already have that
+- this is a really frustrating experience
+- no stop
+- i want a french restaurant
+- shit bot
+- do you want to marry me?
+- give me food
+- i want food
+- udo, I want to marry you
+- i wanna party
+- shitmuncher
+- I like you
+- i want pizza
+- i want pizza!!
+- silly bot
+- i want to eat
+- you are a stupid bot
+- i hate you
+- Can I ask you questions first?
+- is it a wasteland full of broken robot parts?
+- i can't deal with _your_ request
+- are you vegan
+- who will anser my email?
+- do you sell vacuum robots?
+- i want to buy a roomba for my grandson
+- and make chicken noises into the phone
+- is barbara still married to you
+- what's your wife doing this weekend
+- how are the kids
+- you're rather dull
+- personal or work?
+- are you using Rasa Core and NLU ?
+- tell me a joke
+- what else?
+- I already told you! I'm a shitmuncher
+- I'm a shitmuncher
+- who are the engineers at rasa?
+- who are they?
+- can we keep chatting?
+- talk to me
+- who is your favourite robot?
+- a tamed mouse will arrive at your doorstep in the next couple of days
+- you will know it from the single red rose it carries between its teeth
+- i will tame a mouse for you
+- isn't the newsletter just spam?
+- go back
+- can you help me with the docs?
+- sorry, i cannot rephrase
+- and your REST API doesn't work
+- i told you already
+- better than you
+- oh my god, not again!
+- you are a badass bot!
+- lol
+- why do you need that?
+- is that any of your business
+- can you help me with your docs?
+- i immediately need help with implementing the coolest bot you can imagine
+- can you help me with your docs
+- can you tell me how to build a bot?
+- can you learn from our conversation?
+- common, just try
+- hey, I contacted you a couple of days ago but didn't get any response, any news?
+- please hurry, i have deadline in two weeks to deliver the bot it is for very big company
+- you are annoying
+- Do I have to accept?
+- Is Rasa really smart?
+- kannst du auch deutsch?
+- are the newsletter worth the subscription?
+- it's a pity
+- i want more of you in my life!
+- the one that is better than you
+- you suck
+- bots are bad
+- i dont like bots
+ - do you have a phone number?
+- where do you live?
+- how are akela's cats doing?
+- but I just told you that :(
+- Why don’t you answer?
+- But you're an english site :(
+- can you help me to build a bot
